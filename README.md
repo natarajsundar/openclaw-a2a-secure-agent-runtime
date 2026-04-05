@@ -1,4 +1,4 @@
-# openclaw-a2a-secure-runtime
+# openclaw-a2a-secure-agent-runtime
 
 A reference architecture and proof of concept for secure agent-to-agent interoperability with OpenClaw.
 
