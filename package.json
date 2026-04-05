@@ -1,0 +1,15 @@
+{
+  "name": "openclaw-a2a-poc",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A small proof-of-concept relay that maps an OpenClaw session to an A2A task/context boundary.",
+  "scripts": {
+    "demo": "node src/demo.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22.16.0"
+  },
+  "license": "MIT"
+}
